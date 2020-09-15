@@ -20,6 +20,9 @@ class VectorEspecial{
 	public void mostrarVector() {
 		System.out.println(Arrays.toString(edades));
 	}
+	public void nuevo(){
+		
+	}
 	
 }
 public class PruebaVectorEspecial {
